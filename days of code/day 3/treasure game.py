@@ -44,7 +44,3 @@ else :
             print("eaten by beasts Game Over")
         else:
             print("Game Over")
-        
-            
-        
-        
