@@ -6,6 +6,6 @@ names = names_string.split(", ")
 # 🚨 Don't change the code above 👆
 
 #Write your code below this line 👇
-x=len(names)
+x=len(names) -1
 random_selection = rd.randint(0,x)
 print(f"{names[random_selection]} is going to buy the meal today!")
